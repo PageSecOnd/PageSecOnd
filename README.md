@@ -4,7 +4,6 @@
 
 👨‍🎓 **About:** 15-Year-Old Student from China.  
 👨‍💻 **Languages:** Python, Git, JavaScript.  
-🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source.  
-🏢 **Friend:** [Rayer1011](https://github.com/rayer1011)
+🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Sourc，Hackintosh. 
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
