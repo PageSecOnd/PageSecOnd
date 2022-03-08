@@ -4,6 +4,6 @@
 
 👨‍🎓 **About:** 15-Year-Old Student from China.  
 👨‍💻 **Languages:** Python, Git, JavaScript.  
-🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Sourc，Hackintosh. 
+🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Sourc, Hackintosh. 
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
