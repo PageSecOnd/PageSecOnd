@@ -2,7 +2,7 @@
 
 ### Hi there I'm PageSecOnd. 👋
 
-👨‍🎓 **About:** 15-Year-Old Student from China.  
+👨‍🎓 **About:** 18-Year-Old Student from China.  
 👨‍💻 **Languages:** Python, Git, JavaScript.  
 🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source, Hackintosh. 
 
