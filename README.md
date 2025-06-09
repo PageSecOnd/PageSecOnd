@@ -108,7 +108,8 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/hr.gif" />
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/man_run.png" width="250" height="250" />
+
 
 <div>
   <picture>
@@ -132,11 +133,11 @@
     style="display: block; margin: 0 auto;"
   />
 </picture>
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PageSecOnd&theme=vue&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PageSecOnd&theme=vue&show_icons=true" />
 </div>
+
 
 </div>
 
@@ -196,6 +197,5 @@
 
 <div align="center">
 <img width="120%" src="https://repobeats.axiom.co/api/embed/b43a9ffca80bcb2586194f6421b4617f40692126.svg" />
-
 <img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/icon.png" /></div>
 </div>
