@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&center=true&width=435&lines=console.log(%22Hello%2C+World%22);%E4%BA%91%E6%9E%97%E6%95%A3%E4%BA%BA%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB%EF%BC%81;%E4%BA%91%E8%B5%B7%E4%BA%91%E5%BD%92%E7%9A%86%E6%9C%89%E6%84%8F%EF%BC%8C%E6%9E%97%E6%B7%B1%E6%A2%A6%E8%BF%9C%E8%87%AA%E6%82%A0%E7%84%B6)
+![Typing SVG](https://readme-typing-svg.demolab.com/demo/?center=true&lines=console.log(%22Hello%2C+World%22);%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E4%BA%91%E6%9E%97%E6%95%A3%E4%BA%BA%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5)
 
 <img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.png" />
 
@@ -133,7 +133,7 @@ for maximum code reuse and extensibility.*
 <img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/mb.png" width="250" height="250" />
 
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-<br>
+<br></br>
 
 <div><img src="https://github-profile-trophy.vercel.app/?username=PageSecOnd&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
