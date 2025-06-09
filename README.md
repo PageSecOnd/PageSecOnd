@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&center=true&width=435&lines=console.log(%22Hello%2C+World%22);%E4%BA%91%E6%9E%97%E6%95%A3%E4%BA%BA%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB%EF%BC%81;%E4%BA%91%E8%B5%B7%E4%BA%91%E5%BD%92%E7%9A%86%E6%9C%89%E6%84%8F%EF%BC%8C%E6%9E%97%E6%B7%B1%E6%A2%A6%E8%BF%9C%E8%87%AA%E6%82%A0%E7%84%B6)
 
-<img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.gif" />
+<img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.png" />
 
 
 
