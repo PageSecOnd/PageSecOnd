@@ -23,65 +23,42 @@
     </div>
 </div>
 
-![Moe Counter](https://count.getloli.com/@PageSecOnd?name=PageSecOnd&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+<img src="[https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.png](https://count.getloli.com/@PageSecOnd?name=PageSecOnd&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)" />
 
 #  🙋 Hello
 
 
-### 🤺 About Me
+### 🤺 云林散人小传
 
-<p style="
-           font-size: 1.5em;
-           text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
-           letter-spacing: 1px;
-           line-height: 1.8;
-           margin-bottom: 20px;">
-    &emsp;&emsp;嗨，你好，我是云林散人。
-</p>
+#### 浮生一瞥
+　　**嗨，你好，我是云林散人。**  
+青衫落拓十六春，袖藏玄机通百术，心纳万象阅千卷。
 
-<div style="margin: 16px 0; line-height: 1.8; font-family: '华文楷体', 'STKaiti', serif;">
-    <p style="border-left: 3px solid #d4a373; 
-              padding-left: 12px;
-              font-size: 1.2em;
-              margin: 12px 0;
-              color: #4a3a2a;">
-        <strong style="color: #8b5a2b;">设定：</strong>
-        <span>表面16岁，实则"通灵百术，心游千卷"</span>
-    </p>
-<p style="border-left: 3px solid #d4a373;
-          padding-left: 12px;
-          font-size: 1.2em;
-          margin: 12px 0;
-          font-family: '华文楷体', 'STKaiti', serif;
-          color: #4a3a2a;">
-    <strong style="color: #8b5a2b;">称号：</strong>
-    <span>"云"象无拘，"林"承其本名，"散人"乃身心自在之投影</span>
-</p>
+#### 风骨三题
 
-<p style="border-left: 3px solid #d4a373;
-          padding-left: 12px;
-          font-size: 1.2em;
-          margin: 12px 0;
-          font-family: '华文楷体', 'STKaiti', serif;
-          color: #4a3a2a;">
-    <strong style="color: #8b5a2b;">映射：</strong>
-    <span>学医少女 + 数字修者，游走于传统与科技之间</span>
-</p>
-​	热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
+##### 〖名号〗  
+> **云**·无拘形迹  
+> **林**·承本溯源  
+> **散人**·自在天机  
 
-  我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
+##### 〖双镜〗  
+◈ 杏林拈银针，观经脉如观星河  
+◈ 数海演代码，化字符为化剑诀  
 
-> **We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
+##### 〖道心〗  
+"我们正以代码重构乾坤——  
+**于优雅的秩序中见天地，在可复用的韵律里证长生**"  
+
+> *We're making the world a better place.  
+> Through constructing elegant hierarchies  
+> for maximum code reuse and extensibility.*
 
 
-<p style="font-family: '楷体', 'STKaiti', serif; 
-           font-size: 1.7em;
-           text-align: center;
-           color: #6b4e3d;
-           margin-top: 24px;
-           letter-spacing: 2px;">
-    云起云归皆有意，林深梦远自悠然
-</p>
+#### 云林题壁
+
+　　**云起云归皆有意**  
+　　**林深梦远自悠然**  
+　　　　　　—— 闲章·朱文印风
 
 
 ### 📊 WakaTime
