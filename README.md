@@ -30,7 +30,7 @@
 <div align="center">
 
 <!-- visitor -->
-<img src="https://count.getloli.com/@PageSecOnd?name=PageSecOnd&theme=asoul&scale=1&padding=7&offset=0&align=center&scale=2&darkmode=auto" />
+<img src="https://count.getloli.com/@PageSecOnd?name=PageSecOnd&theme=asoul&padding=7&offset=0&align=center&scale=1&darkmode=auto" />
 
 </div>
 
