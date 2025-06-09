@@ -23,44 +23,55 @@
     </div>
 </div>
 
-<img src="[https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.png](https://count.getloli.com/@PageSecOnd?name=PageSecOnd&theme=random&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto)" />
+<img src="https://count.getloli.com/@PageSecOnd?name=PageSecOnd&theme=random&padding=7&offset=0&align=center&pixelated=1&darkmode=auto" />
 
 </div>
 
 #  🙋 Hello
 
 
-### 🤺 云林散人小传
+### 🌿 云林散人小传
 
 #### 浮生一瞥
-　　**嗨，你好，我是云林散人。**  
-青衫落拓十六春，袖藏玄机通百术，心纳万象阅千卷。
+　　**拂晓问安，贫道云林散人。**  
+青衫落拓十六秋，袖藏玄机通百术，心纳万象阅千卷。
 
 #### 风骨三题
 
-##### 〖名号〗  
-> **云**·无拘形迹  
-> **林**·承本溯源  
-> **散人**·自在天机  
+##### 〖名号溯源〗
+<center>
 
-##### 〖双镜〗  
-◈ 杏林拈银针，观经脉如观星河  
-◈ 数海演代码，化字符为化剑诀  
+| 字 | 意 | 境 |
+|----|----|----|
+| **云** | 无拘形迹 | 去留无意漫卷舒 |
+| **林** | 承本溯源 | 一叶一枝总关情 |
+| **散人** | 自在天机 | 闲敲棋子落灯花 |
 
-##### 〖道心〗  
-"我们正以代码重构乾坤——  
-**于优雅的秩序中见天地，在可复用的韵律里证长生**"  
+</center>
 
-> *We're making the world a better place.  
-> Through constructing elegant hierarchies  
-> for maximum code reuse and extensibility.*
+##### 〖双镜观道〗
+◈ 左手**杏林金针**，观三阴三阳如参星斗  
+◈ 右手**玄符代码**，化零一乾坤似演周易  
+
+##### 〖道心微言〗
+> "且看这**代码重构**的乾坤——  
+> 〖优雅秩序〗里见得**天地心**  
+> 〖复用韵律〗中证得**长生诀**"
+
+<div style="text-align: right; font-size: 0.9em; color: #7a6b5a;">
+
+*We're making the world a better place.<br>
+Through constructing elegant hierarchies<br>
+for maximum code reuse and extensibility.*
+
+</div>
 
 
-#### 云林题壁
-
-　　**云起云归皆有意**  
-　　**林深梦远自悠然**  
-　　　　　　—— 闲章·朱文印风
+<p align="center" style="font-family: '楷体'; font-size: 1.5em; color: #6b4e3d;">
+<strong>云起云归皆有意</strong><br>
+<strong>林深梦远自悠然</strong><br>
+<span style="font-size: 0.8em; color: #8c7b6b;">—— 闲章·朱文印风</span>
+</p>
 
 <div align="center">
 
