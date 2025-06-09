@@ -96,13 +96,6 @@ for maximum code reuse and extensibility.*
 <img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/man_run.png" width="250" height="250" />
 
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?bgColor=%23121212" />
-  </picture>
-</div>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -119,10 +112,8 @@ for maximum code reuse and extensibility.*
   />
 </picture>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PageSecOnd&theme=vue&show_icons=true" />
-</div>
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PageSecOnd" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PageSecOnd&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PageSecOnd&theme=transparent&show_icons=true" />
 </div>
 
 
