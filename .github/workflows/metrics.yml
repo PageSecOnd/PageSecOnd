@@ -1,27 +1,19 @@
-name: Generate Metrics
-
+name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # 每天自动更新一次
-  workflow_dispatch:             # 允许手动触发
-
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg              # 输出文件名，仓库根目录下
-          user: ${{ github.repository_owner }} # 当前仓库拥有者
-          token: ${{ secrets.METRICS_TOKEN }}   # 需要一个有 repo 权限的 PAT
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add metrics.svg
-          git commit -m "chore: update metrics" || exit 0
-          git push
+          token: ${{ secrets.METRICS_TOKEN }}
