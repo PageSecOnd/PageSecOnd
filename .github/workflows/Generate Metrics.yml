@@ -8,6 +8,9 @@ on:
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
