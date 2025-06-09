@@ -3,22 +3,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&center=true&width=435&lines=console.log(%22Hello%2C+World%22);%E4%BA%91%E6%9E%97%E6%95%A3%E4%BA%BA%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB%EF%BC%81;%E4%BA%91%E8%B5%B7%E4%BA%91%E5%BD%92%E7%9A%86%E6%9C%89%E6%84%8F%EF%BC%8C%E6%9E%97%E6%B7%B1%E6%A2%A6%E8%BF%9C%E8%87%AA%E6%82%A0%E7%84%B6)
 
-<div style="display: flex; gap: 32px; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 260px;">
-    <blockquote style="margin: 0 0 1em 0; font-size: 1.05em; color: #444; border-left: 4px solid #b3daf5; padding-left: 1em;">
-      山间有座青檐小屋，檐下晒着草药，窗边蜷着个摆弄银针的少女。针尾红线缠着浮动的代码光，她随手一点，枯花便舒展枝叶，叶脉流过翡翠色符文。<br><br>
-        <br><br>
-      "草木是旧学问，灵语是新法术。"她耳际银链微闪，灰蓝猫尾卷着刻满二进制卦象的竹简，"至于名号？"<br><br>
-        <br><br>
-      掌心"艾"字印记一亮，檐角风铃洒落电子音的回响——<br><br>
-        <br><br>
-      "不过是个借天地跑数据的散人罢了。"
-    </blockquote>
-  </div>
-  <figure style="flex: 1; margin: 0; text-align: center; min-width: 200px;">
-    <img src="https://yunlinsan.ren/portrait-no-background.png" alt="云林散人" style="max-width: 70%; height: auto; border-radius: 12px;" />
-  </figure>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.gif" />
+
+
 
 
 
