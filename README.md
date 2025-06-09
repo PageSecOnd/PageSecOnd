@@ -119,7 +119,7 @@ for maximum code reuse and extensibility.*
   />
 </picture>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut " />
   <img src="https://github-readme-stats.vercel.app/api?username=PageSecOnd&theme=vue&show_icons=true" />
 </div>
 
