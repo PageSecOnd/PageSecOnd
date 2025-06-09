@@ -23,7 +23,9 @@
     </div>
 </div>
 
-<img src="[https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.png](https://count.getloli.com/@PageSecOnd?name=PageSecOnd&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)" />
+<img src="[https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.png](https://count.getloli.com/@PageSecOnd?name=PageSecOnd&theme=random&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto)" />
+
+</div>
 
 #  🙋 Hello
 
@@ -60,6 +62,7 @@
 　　**林深梦远自悠然**  
 　　　　　　—— 闲章·朱文印风
 
+<div align="center">
 
 ### 📊 WakaTime
 
