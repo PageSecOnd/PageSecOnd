@@ -68,7 +68,8 @@ for maximum code reuse and extensibility.*
 <p align="center" style="font-family: '楷体'; font-size: 1.5em; color: #6b4e3d;">
 <strong>云起云归皆有意</strong><br>
 <strong>林深梦远自悠然</strong><br>
-<span style="font-size: 0.8em; color: #8c7b6b;">        —— 闲章·朱文印风</span>
+  <br>
+<span style="font-size: 0.8em; color: #8c7b6b;">—— 闲章·朱文印风</span>
 </p>
 
 <div align="center">
