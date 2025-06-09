@@ -80,6 +80,12 @@
     <strong style="color: #8b5a2b;">映射：</strong>
     <span>学医少女 + 数字修者，游走于传统与科技之间</span>
 </p>
+​	热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
+
+  我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
+
+> **We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
+
 
 <p style="font-family: '楷体', 'STKaiti', serif; 
            font-size: 1.7em;
@@ -134,9 +140,10 @@
   />
 </picture>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
   <img src="https://github-readme-stats.vercel.app/api?username=PageSecOnd&theme=vue&show_icons=true" />
 </div>
+
 
 
 </div>
@@ -196,6 +203,6 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/hr.gif" />
 
 <div align="center">
-<img width="120%" src="https://repobeats.axiom.co/api/embed/b43a9ffca80bcb2586194f6421b4617f40692126.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/c978a4ede90795d651d06db0a5b9c25ac47f40f0.svg" />
 <img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/icon.png" /></div>
 </div>
