@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=console.log(%22Hello%2C+World%22);%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E4%BA%91%E6%9E%97%E6%95%A3%E4%BA%BA%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&width=435&lines=console.log(%22Hello%2C+World%22);%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E4%BA%91%E6%9E%97%E6%95%A3%E4%BA%BA%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
 
 <img src="https://cdn.jsdelivr.net/gh/PageSecOnd/PageSecOnd/assets/images/portrait.png" />
 
